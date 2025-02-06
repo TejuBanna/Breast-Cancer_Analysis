@@ -18,3 +18,6 @@ The **number of normal nuclei** was found to be lower in malignant cases in cate
 In terms of **Mitosis**, benign cases were mostly found in category 1, with few in category 2 and higher. Malignant cases were prevalent across categories 1 to 4, leading to the suggestion of grouping categories 2 and above for modeling, with a cutoff set at 1.
 
 Regarding **Clump Thickness**, benign cases were spread across all categories, whereas malignant cases had lower thickness values in the first four categories. For **Cell Size**, most benign cases were observed in categories 1, 2, and 3, while malignant cases were more common in categories above 4. A similar pattern was found for **Cell Shape**, where benign cases were primarily in categories 1, 2, and 3, while malignant cases increased in categories 3 and higher, especially in category 5. Finally, **Bare Nuclei** showed that most benign cases were found in category 1, with some in categories 2 and 3, whereas malignant cases were more frequent in categories 3 and higher, particularly in category 10.
+Outputs:
+![image](https://github.com/user-attachments/assets/8aa3d7cd-c18b-4135-bdc5-ece4e708401c)
+
