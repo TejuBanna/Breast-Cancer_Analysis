@@ -21,3 +21,6 @@ Regarding **Clump Thickness**, benign cases were spread across all categories, w
 Outputs:
 ![image](https://github.com/user-attachments/assets/8aa3d7cd-c18b-4135-bdc5-ece4e708401c)
 
+![image](https://github.com/user-attachments/assets/05a7a657-f53e-4d1e-8573-aa462bb92ea6)
+
+
